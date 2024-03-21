@@ -1,0 +1,14 @@
+C:\laragon\www\Fifi\ivan\bin\Debug\net7.0\ivan.exe
+C:\laragon\www\Fifi\ivan\bin\Debug\net7.0\ivan.deps.json
+C:\laragon\www\Fifi\ivan\bin\Debug\net7.0\ivan.runtimeconfig.json
+C:\laragon\www\Fifi\ivan\bin\Debug\net7.0\ivan.dll
+C:\laragon\www\Fifi\ivan\bin\Debug\net7.0\ivan.pdb
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.AssemblyInfoInputs.cache
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.AssemblyInfo.cs
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.csproj.CoreCompileInputs.cache
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.dll
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\refint\ivan.dll
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.pdb
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ivan.genruntimeconfig.cache
+C:\laragon\www\Fifi\ivan\obj\Debug\net7.0\ref\ivan.dll
